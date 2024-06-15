@@ -3,7 +3,7 @@
 
 I am Talha, currently learning web development. I am passionate about web development, open source projects, and technological innovations.
 
-## Connect to Me
+## How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/talha-topaloglu/)
 - [Email](mailto:talhatopaloglu9@gmail.com)
 
