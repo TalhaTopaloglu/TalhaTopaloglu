@@ -14,8 +14,8 @@ I am Talha, currently learning web development. I am passionate about web develo
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png' width='90'/> 
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png' width='90'/> 
 <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8i4zPog-0j0JR_yZglxPhTPZXxN2iMTQ3Dw&s' width='90'/> 
-<img src='https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png' width='90'/> 
-<img src='https://upload.wikimedia.org/wikipedia/tr/thumb/2/2e/Java_Logo.svg/1200px-Java_Logo.svg.png' width='90'/><img src='https://ms-azuretools.gallerycdn.vsassets.io/extensions/ms-azuretools/vscode-docker/1.29.1/1714590328016/Microsoft.VisualStudio.Services.Icons.Default' width='90'/> 
+<img src='https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png' width='90'/> <br>
+<img src='https://ms-azuretools.gallerycdn.vsassets.io/extensions/ms-azuretools/vscode-docker/1.29.1/1714590328016/Microsoft.VisualStudio.Services.Icons.Default' width='90'/> <img src='https://upload.wikimedia.org/wikipedia/tr/thumb/2/2e/Java_Logo.svg/1200px-Java_Logo.svg.png' width='90'/>
 
 ## Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TalhaTopaloglu&langs_count=8)](https://github.com/TalhaTopaloglu/github-readme-stats)
