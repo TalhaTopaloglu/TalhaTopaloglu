@@ -22,7 +22,3 @@ I am Talha, currently learning web development. I am passionate about web develo
 [![Talha'nın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=TalhaTopaloglu)](https://github.com/TalhaTopaloglu/github-readme-stats)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=TalhaTopaloglu&theme=radical&no-bg=true&no-frame=true&column=7&margin-w=15&margin-h=15)
 
-## 🎯 Goals and Plans
-- Short-term goals: Contribute to open source projects.
-- Long-term goals: Become a full-stack developer.
-
